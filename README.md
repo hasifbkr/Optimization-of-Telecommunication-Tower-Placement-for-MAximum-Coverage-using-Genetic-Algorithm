@@ -1,1 +1,1 @@
-# Optimization-of-Telecommunication-Tower-Placement-for-MAximum-Coverage-using-Genetic-Algorithm
+# Optimization-of-Telecommunication-Tower-Placement-for-Maximum-Coverage-using-Genetic-Algorithm
